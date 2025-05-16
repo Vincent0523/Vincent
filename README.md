@@ -1,5 +1,5 @@
 # About Me 🙏
-I am **Computer Science Student** ❤️  
+I am **Computer Science And Engineering Student** ❤️  
 I am a **Cybersecurity Researcher**
 ### 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
